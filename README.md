@@ -5,3 +5,5 @@ This is your team repository for holding standup notes and other team wide infor
 Merry Degaga
 
 Joel Ohge
+
+Roger Gaulke
