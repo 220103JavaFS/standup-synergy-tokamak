@@ -10,6 +10,6 @@ Joel Ohge
 
 Roger Gaulke
 
-Edwin A. Feliz
+Edwin Feliz
 
 Berhe Amare
